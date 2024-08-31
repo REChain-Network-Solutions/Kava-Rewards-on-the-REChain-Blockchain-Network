@@ -1,0 +1,1 @@
+*/20 * * * * cd kava-rewards; node check_daemon.js 1>>~/.config/kava-rewards/check_daemon.log 2>>~/.config/kava-rewards/check_daemon.err
