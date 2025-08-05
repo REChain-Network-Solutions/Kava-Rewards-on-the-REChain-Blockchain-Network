@@ -5,7 +5,7 @@
 		"@koa/cors": "^5.0.0",
 		"aabot": "git+uri",
 		"axios": "^1.4.0",
-		"dotenv": "^16.4.5",
+		"dotenv": "^17.2.1",
 		"koa": "^3.0.1",
 		"koa-bodyparser": "^4.3.0",
 		"koa-router": "^13.0.1",
